@@ -5,6 +5,10 @@ main:
   - title: "Negative"
     url: /negativ
   - title: "Neutrale"
-    url: /neutrale
+    url: /neutral
+  - title: "Bücher"
+    url: /book
   - title: "About"
     url: /about
+  - title: "Kontakt"
+    url: /contact  

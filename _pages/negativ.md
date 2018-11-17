@@ -1,8 +1,10 @@
 ---
-title: Consulting
-layout: splash
-permalink: /consulting/
+title: Negative
+layout: single
+permalink: /negativ/
 header:
-  overlay_image: /images/header/site-header-flat.png
+  overlay_image: /images/header/site-header.png
 
 ---
+
+Hier kommen die negativen Muster (mit rotem Header?)

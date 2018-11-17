@@ -12,7 +12,7 @@ title           : "Knigge für Softwarearchitekten"
 title_separator : "-"
 name            : ""
 description     : "Typische (gute und schlechte) Verhaltensmuster."
-url             : "https://www.softwareknigge.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url             : "https://softwareknigge.netlify.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl         : ""  # the subpath of your site, e.g. "/blog"
 repository      : "gernotstarke/softwareknigge.de-site" # GitHub username/repo-name
 teaser          :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"

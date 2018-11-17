@@ -1,0 +1,10 @@
+
+main:
+  - title: "Positive"
+    url: /positiv
+  - title: "Negative"
+    url: /negativ
+  - title: "Neutrale"
+    url: /neutrale
+  - title: "About"
+    url: /about

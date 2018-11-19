@@ -84,7 +84,7 @@ exclude:
   - README
   - tmp
   - originals
-  - images
+
 
 keep_files:
   - .git

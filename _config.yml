@@ -3,7 +3,7 @@
 
 theme: minimal-mistakes-jekyll
 
-search             : false
+search             : true
 search_full_content: false
 
 # Site Settings
@@ -172,8 +172,20 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: true
       related: true
+
+# Collections:
+collections:
+  negativ:
+     output: true
+     permalink: /:collection-posts/:title.html
+  positiv:
+       output: true
+       permalink: /:collection-posts/:title.html
+  neutral:
+       output: true
+       permalink: /:collection-posts/:title.html

@@ -21,6 +21,7 @@ feature_row:
 
 ---
 
+
 ![](/images/pattern-language/Knigge-Pattern-Language-4-Site.png)
 
 

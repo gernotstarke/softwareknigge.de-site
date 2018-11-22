@@ -15,6 +15,6 @@ Die Nummern vor den Titeln beziehen sich auf die Kapitel der gedruckten Version.
 
 ### [{{ negativ.title }}]({{ negativ.url }})
 
-{{ negativ.excerpt }}
+{{ negativ.summary }}
 
 {% endfor %}

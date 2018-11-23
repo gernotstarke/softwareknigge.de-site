@@ -4,7 +4,7 @@
 theme: minimal-mistakes-jekyll
 
 search             : true
-search_full_content: false
+search_full_content: true
 
 # Site Settings
 locale          : "de"

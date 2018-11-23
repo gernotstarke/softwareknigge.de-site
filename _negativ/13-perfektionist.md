@@ -38,9 +38,9 @@ Bleiben Sie pragmatisch – auch mit 80 -Prozent-Lösungen können Sie gute So
 erfindet neue und arbeitet sie bis zum Exzess aus.
 Das er scheint uns in den meisten Fällen als zu viel Arbeit.
 
-* Der Perfektionist vergisst die [strukturierte Faulheit](4-strukturierte-faulheit) und gerät somit schnell in Gefahr, zu viel zu produzieren.
+* Der Perfektionist vergisst die [strukturierte Faulheit](04-strukturierte-faulheit) und gerät somit schnell in Gefahr, zu viel zu produzieren.
 
-* Perfektionismus führt zu Übertreibung: [Zu viel des Guten](/7-zuviel-des-guten) in Reinform.
+* Perfektionismus führt zu Übertreibung: [Zu viel des Guten](/07-zuviel-des-guten) in Reinform.
 * Der Perfektionist kann in [Toolistan](/22-toolistan) wochenlang über noch bessere Werkzeuge diskutieren, ohne das eigentliche System zu verbessern.
 
 ### Quellen

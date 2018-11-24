@@ -5,6 +5,9 @@ header:
   overlay_image: /images/header/softwareknigge-site-header-red.png
 
 permalink: /21-ignorant
+
+summary: ""
+
 excerpt: ""
 ---
 

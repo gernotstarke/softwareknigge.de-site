@@ -8,7 +8,8 @@ header:
 ---
 
 Hier finden Sie die negativen Muster in der Übersicht.
-Die Nummern vor den Titeln beziehen sich auf die Kapitel der gedruckten Version.
+Die Nummern vor den Titeln beziehen sich auf die Kapitel
+der [gedruckten Version](https://www.amazon.de/Knigge-f%C3%BCr-Softwarearchitekten-Peter-Hruschka/dp/3868028064).
 
 
 {% for negativ in site.negativ %}

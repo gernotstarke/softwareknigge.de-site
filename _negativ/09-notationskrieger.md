@@ -9,6 +9,8 @@ summary: "Eine im mittleren Management auftretende, bipedale humanoide Lebensfor
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 Eine im mittleren Management auftretende, bipedale humanoide Lebensform, die sowohl vom Erbsenzähler als auch vom Prinzipienreiter (lat. Equester principiae) abstammt. Kompromisse sind dem Notationskrieger ein Dorn im Auge. Vorschriften, Regeln und Normen sind für ihn gesetzesgleich.
 

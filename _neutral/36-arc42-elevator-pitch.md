@@ -7,6 +7,8 @@ header:
 permalink: /36-arc42-elevator-pitch  
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 
 ### Verwandte Muster

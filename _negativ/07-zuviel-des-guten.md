@@ -9,6 +9,8 @@ summary: "Softwarearchitekten verfügen über ein ganz besonderes Portfolio mo
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 Softwarearchitekten verfügen über ein ganz besonderes Portfolio möglicher Exzesse: Zu viele Fesseln, zu viele Freiheiten oder zu viel Dokumentation. Doch eins nach dem anderen ...
 

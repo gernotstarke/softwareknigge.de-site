@@ -9,6 +9,8 @@ summary: "Schmutzfinken besitzen einen überaus starken Überlebenswillen und 
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 Schmutzfinken – eine Spezies, die so alt ist wie das Programmieren selbst. Schmutzfinken besitzen einen überaus starken Überlebenswillen und lassen sich auch durch Technologiewechsel nicht aus ihrem Konzept bringen. Im Gegenteil: Mit jeder neuen Technologie, Programmiersprache und jedem Framework entdecken Schmutzfinken neue und kreative Möglichkeiten, ihrer Passion zu frönen.
 

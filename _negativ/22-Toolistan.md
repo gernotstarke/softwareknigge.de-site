@@ -9,6 +9,8 @@ excerpt: ""
 
 summary: "In fernen Lande Toolistan leben größtenteils optimistische Menschen. Sie glauben fest daran, dass mit einem neuen Werkzeug das nächste Projekt schon sauber laufen wird. Sie vertrauen in die farbenprächtigen Broschüren der Hersteller, denn wer so teure Werkzeuge produziert, der wird sich wohl gut auskennen."
 ---
+{% include you-read-an-extract.html %}
+
 
 In fernen Lande Toolistan leben größtenteils optimistische Menschen. Sie glauben fest daran, dass mit einem neuen Werkzeug das nächste Projekt schon sauber laufen wird. Sie vertrauen in die farbenprächtigen Broschüren der Hersteller, denn wer so teure Werkzeuge produziert, der wird sich wohl gut auskennen.
 

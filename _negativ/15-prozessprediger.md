@@ -11,6 +11,8 @@ Sie predigen ebetsmühlenartig den Teams das Mantra: _HEADV-HEADV-HEADV_ (Halte
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 Total Quality Management (TQM) hat uns eingetrichtert: Qualität von Produkten entsteht durch Überwachen, Prüfen und Verbessern der Prozesse. Zahlreiche Softwareproduktivitätsprogramme wie CMMI und ISO 9000, aber auch Vorgehensmodelle wie das V-Modell und der Rational Unified Process (RUP) stoßen ins gleiche Horn.
 

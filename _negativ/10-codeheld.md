@@ -9,6 +9,8 @@ permalink: /10-codeheld
 summary: 'Einsam hockt er mit gekrümmtem Rücken und verbissenem Blick vor dem Bildschirm. Er, mit Quellcode und Compiler allein in der Finsternis...'
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 >#### War Story
 > In der Nacht vor Übergabe des Systems an den Auftraggeber: Einsam hockt er mit gekrümmtem Rücken und verbissenem Blick vor dem Bildschirm. Er, mit Quellcode und Compiler allein in der Finsternis. Noch schnell ein Feature programmiert, ein paar  Optimierungen und zwei, drei Bugs gefixt, es ist ja erst zwei Uhr, noch Zeit genug bis Sonnenaufgang.

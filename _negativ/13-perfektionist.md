@@ -10,6 +10,8 @@ summary: "Perfektionismus ist die Stimme des Unterdrückers, der Feind jedes Me
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 „Perfektionismus ist die Stimme des Unterdrückers, der Feind jedes Menschen.
 Er engt Sie ein Leben lang ein und macht Sie verrückt [...]. Ich glaube, dass Perfektionismus auf der besessenen Vorstellung beruht, dass man nicht sterben würde, wenn man nur sorgfältig genug voranschritte und jeden Trittstein genau träfe." (Anne Lamot)

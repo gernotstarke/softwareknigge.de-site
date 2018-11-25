@@ -11,6 +11,8 @@ summary: "NIH - _not invented here_ war (oder ist noch?) eine verbreitete Krankh
 excerpt: ""
 ---
 
+{% include you-read-an-extract.html %}
+
 
 
 > "Der Mensch hat dreierlei Wege klug zu handeln: Durch Nachdenken ist der edelste,

@@ -10,6 +10,8 @@ summary: 'In der Abgeschiedenheit, fernab der Praxis, brütet ein verschrobenes
 
 excerpt: ''
 ---
+{% include you-read-an-extract.html %}
+
 
 
 In der Abgeschiedenheit, fernab der Praxis, brütet ein verschrobenes Grüppchen Lösungsvorschläge aus, die niemand umsetzen möchte, denen es an Alltagstauglichkeit mangelt und deren (vermeintliche) _Genialität_ nur wenige zu würdigen wissen.

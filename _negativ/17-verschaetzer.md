@@ -9,6 +9,8 @@ summary: "Verschätzer antworten freimütig, schnell und vermeintlich präzis
 
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
+
 
 
 ### Dialog mit einem Verschätzer:

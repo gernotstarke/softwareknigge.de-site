@@ -1,5 +1,5 @@
 ---
-title: "09 Notationskrieger"
+title: "09 - Notationskrieger"
 layout: single
 header:
   overlay_image: /images/header/softwareknigge-site-header-red.png

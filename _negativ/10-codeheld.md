@@ -1,5 +1,5 @@
 ---
-title: "10 Codeheld"
+title: "10 - Codeheld"
 layout: single
 header:
   overlay_image: /images/header/softwareknigge-site-header-red.png

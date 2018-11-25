@@ -1,5 +1,5 @@
 ---
-title: "02 Elfenbeinturm"
+title: "02 - Elfenbeinturm"
 layout: single
 header:
   overlay_image: /images/header/softwareknigge-site-header-red.png

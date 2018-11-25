@@ -6,7 +6,10 @@ header:
 
 permalink: /xx-xxx
 excerpt: ""
+summary: ""
 ---
+
+{% include you-read-an-extract.html %}
 
 
 ### Verwandte Muster

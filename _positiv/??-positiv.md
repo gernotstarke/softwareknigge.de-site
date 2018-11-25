@@ -2,9 +2,14 @@
 title: ""
 layout: single
 header:
-  overlay_image: /images/header/softwareknigge-site-header.png
+  overlay_image: /images/header/softwareknigge-site-header-green.png
+
+permalink: /xxx
+summary:
+
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
 
 
 ### Verwandte Muster

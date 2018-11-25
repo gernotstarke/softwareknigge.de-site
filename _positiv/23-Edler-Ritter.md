@@ -1,12 +1,16 @@
 ---
-title: "23 - Der Edle Ritter"
+title: "23 - Edler Ritter"
 layout: single
 header:
   overlay_image: /images/header/softwareknigge-site-header-green.png
 
 permalink: /23-edler-ritter
+
+summary: "Bis an die Zähne bewaffnet mit methodischer, technischer und auch fachlicher _Ausrüstung_ begleiten Sie Kunden, Auftraggeber und das Entwicklungsteam durch die oftmals gefährliche Reise durch die raue Wirklichkeit."
+
 excerpt: ""
 ---
+{% include you-read-an-extract.html %}
 
 > „Ritterlichkeit umfasst einen Katalog von tugendhaftem Verhalten oder bestimmten Tugenden; es bezeichnet das einem Ritter geziemende Verhalten.“ (Wikipedia)
 
@@ -20,6 +24,4 @@ Dort lauern Gefahren in allen Ecken: Gemeine Querulanten verüben hinterlistige
 
 ### Verwandte Muster
 
-Maßhaltung gehört zu Ihren ritterlichen Tugenden. Sie sollten Angemessenheit beurteilen und zu viel des Guten (Kapitel 7) vermeiden können.
-
-### Quellen
+Maßhaltung gehört zu Ihren ritterlichen Tugenden. Sie sollten Angemessenheit beurteilen und [zu viel des Guten](07-zu-viel-des-guten) vermeiden können.

@@ -31,9 +31,8 @@ Als Kontrapunkt dazu lautet der Spruch der Praktiker _Eat your own Dogfood_: Wen
 
 ### Verwandte Muster
 
-* Allein im stillen Kämmerlein, ohne anregende Diskussion mit der Außenwelt – kommen Elfenbeintürmler auf seltsame Ideen, von denen „lieber selbst bauen“ nur eine ist.
 
 * Heroische Programmierer schreiben schon mal eine Funktion neu, weil sie es (vermeintlich) besser können als die ursprünglichen Autoren.
 Falls sie dabei bewusst und absichtlich handeln, weil sie beispielsweise
 die Abhängigkeit von dieser (ursprünglichen) Funktion verhindern wollen,
-geht das klar. Aber: Auf solche [Codehelden](/10-codeheld) lauert das Not-invented-here-Syndrom. 
+geht das klar. Aber: Auf solche [Codehelden](/10-codeheld) lauert das Not-invented-here-Syndrom.

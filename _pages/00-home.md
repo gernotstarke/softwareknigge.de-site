@@ -10,13 +10,13 @@ excerpt: "**Typisches Verhalten in der IT**"
 feature_row:
   - title: "gute..."
     excerpt: "positive Verhaltensweisen, die Ihre Systeme besser machen und Ihre Projekte voran bringen."
-    url: "/positive"
+    url: "/positiv"
     btn_label: "mehr lesen"
     btn_class: "btn--success"
 
   - title: "schlechte..."
     excerpt: "negative Verhaltensweisen, die mehr schaden als nützen - aber teilweise auf den ersten Blick ganz anders wirken."
-    url: "/negative"
+    url: "/negativ"
     btn_label: "mehr lesen"
     btn_class: "btn--danger"
 

@@ -37,4 +37,7 @@ Zwei Augen genügen. Immer. Sonst redet dem Schmutzfink ja nur jemand anders un
 
 ### Quellen
 
+Das [Original](https://jaxenter.de/knigge-fur-softwarearchitekten-der-schmutzfink-669)
+erschien im September 2014 im JavaMagazin.
+
 [^cleancode]: Martin, Robert: „Clean Code. A Handbook of Agile Software Craftsmanship“, Prentice Hall, 2008

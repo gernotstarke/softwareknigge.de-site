@@ -44,4 +44,7 @@ Datenintegrität wollen wir hier aufgrund der Kürze dieses Kapitels mal ignor
 Lesen Sie mal [Blackout](http://www.blackout-das-buch.de/buch.html). Das macht
 vor Industrie 4.0 so richtig Angst.
 
+Das [Original](https://jaxenter.de/die-zukunft-mit-industrie-4-0-44066)
+dieses Artikels erschien im August 2016 im JavaMagazin.
+
 [^fraunhofer]: Fraunhofer-Gesellschaft: „Produktion und Dienstleistung – Industrie 4.0“: http://www.fraunhofer.de/de/forschung/forschungsfelder/produktion-dienstleistung/ industrie-4-0.html

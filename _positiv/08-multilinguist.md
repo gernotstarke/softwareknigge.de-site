@@ -34,7 +34,10 @@ Wir Techniker, fließend in Geek Speak, Java und TLAs sind ohnehin außerhalb un
 
 ![](/images/08-stakeholder.png)
 
+
 ### Verwandte Muster
 
+Sie lernen durch einen [Blick in den Rückspiegel](/06-blick-in-den-rueckspiegel)
+die Sprachen Ihrer Stakeholder besser zu verstehen.
 
 ### Quellen

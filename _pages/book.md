@@ -6,6 +6,8 @@ permalink: /book
 header:
   overlay_image: /images/header/book-header.png
 
+classes: wide
+
 ---
 
 ## 2018: Knigge, 3. Auflage

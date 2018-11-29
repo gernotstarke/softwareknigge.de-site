@@ -8,6 +8,8 @@ permalink: /xxx
 summary:
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

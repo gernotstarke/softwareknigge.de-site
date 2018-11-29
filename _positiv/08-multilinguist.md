@@ -8,6 +8,8 @@ permalink: /08-multilinguist
 summary: "Selbst Menschen derselben Muttersprache können sich bei einer Unterhaltung in nahezu beliebiger Weise missverstehen. Und wenn diese Menschen dann auch noch ganz unterschiedliche Rollen in Projekten einnehmen oder gar unterschiedliche Ziele verfolgen, dann ... willkommen in der Realität."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

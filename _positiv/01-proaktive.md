@@ -9,6 +9,8 @@ summary: "Verantwortungsbewusste Softwarearchitekten gehen aktiv auf alle Beteil
 einleiten zu können. Sie übernehmen die Initiative, starten notwendige Aktivitäten aus eigenem Antrieb."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

@@ -8,6 +8,8 @@ permalink: /12-vereinfachungskobold
 summary: "Im Kopf von Softwarearchitekten sollte es mehrere parallel ablaufende Demon-Prozesse geben (beispielsweise `speakd, seed, feeld, thinkd`). Die höchste Priorität erhält dabei der `simplifyd`, der überflüssige Komplexität erkennt und automatisch reduziert."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

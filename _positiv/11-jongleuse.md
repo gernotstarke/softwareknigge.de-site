@@ -8,6 +8,8 @@ permalink: /11-jongleuse
 summary: "Der Geschäftsführer möchte schnell eine kostengünstige Lösung. Die Anwender wünschen sich eine ergonomische Oberfläche und höchste Performance, egal was es kostet. Der Fachbereich fordert umfassende Funktionalität und ein Höchstmaß an Erweiterbarkeit. Dem Betreiber sind Preis und Ergonomie völlig egal, er verlangt standardkonformes Monitoring und ein robustes Betriebskonzept. Der Gesetzgeber fordert SOX Compliance und eine BSI-Zertifizierung. Die QS-Abteilung möchte dieses, Marketing und Vertrieb jenes. Fast noch schlimmer als Flöhe hüten..."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

@@ -8,6 +8,8 @@ permalink: /07-zuviel-des-guten
 summary: "Softwarearchitekten verfügen über ein ganz besonderes Portfolio möglicher Exzesse: Zu viele Fesseln, zu viele Freiheiten, zu viel Dokumentation und so weiter... "
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

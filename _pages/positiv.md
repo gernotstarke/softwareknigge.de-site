@@ -5,6 +5,8 @@ permalink: /positiv
 header:
   overlay_image: /images/header/softwareknigge-site-header-green.png
 
+classes: wide
+
 ---
 
 Hier finden Sie die positiven Muster in der Übersicht.

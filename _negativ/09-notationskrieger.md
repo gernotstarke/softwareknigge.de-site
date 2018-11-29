@@ -8,6 +8,8 @@ permalink: /09-notationskrieger
 summary: "Eine im mittleren Management auftretende, bipedale humanoide Lebensform, die sowohl vom Erbsenzähler als auch vom Prinzipienreiter (lat. Equester principiae) abstammt. Kompromisse sind dem Notationskrieger ein Dorn im Auge. Vorschriften, Regeln und Normen sind für ihn gesetzesgleich."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

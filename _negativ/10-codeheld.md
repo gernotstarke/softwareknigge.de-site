@@ -8,6 +8,8 @@ permalink: /10-codeheld
 
 summary: 'Einsam hockt er mit gekrümmtem Rücken und verbissenem Blick vor dem Bildschirm. Er, mit Quellcode und Compiler allein in der Finsternis...'
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

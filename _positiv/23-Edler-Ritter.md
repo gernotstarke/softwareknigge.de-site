@@ -9,6 +9,8 @@ permalink: /23-edler-ritter
 summary: "Bis an die Zähne bewaffnet mit methodischer, technischer und auch fachlicher _Ausrüstung_ begleiten Sie Kunden, Auftraggeber und das Entwicklungsteam durch die oftmals gefährliche Reise durch die raue Wirklichkeit."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

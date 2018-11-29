@@ -10,6 +10,8 @@ Sie predigen ebetsmühlenartig den Teams das Mantra: _HEADV-HEADV-HEADV_ (Halte
 "
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

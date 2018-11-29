@@ -6,8 +6,10 @@ header:
 
 permalink: /22-toolistan
 excerpt: ""
+classes: wide
 
 summary: "In fernen Lande Toolistan leben größtenteils optimistische Menschen. Sie glauben fest daran, dass mit einem neuen Werkzeug das nächste Projekt schon sauber laufen wird. Sie vertrauen in die farbenprächtigen Broschüren der Hersteller, denn wer so teure Werkzeuge produziert, der wird sich wohl gut auskennen."
+
 ---
 {% include you-read-an-extract.html %}
 
@@ -24,3 +26,6 @@ Andere Bewohner von Toolistan besitzen schon seit Menschengedenken einfache Hä
 ### Verwandte Muster
 
 Wie war das mit den Kanonen und den Spatzen? Vorsicht: Viel Werkzeug für wenig System könnte [zu viel des Guten](/07-zuviel-des-guten) und übertrieben sein.
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

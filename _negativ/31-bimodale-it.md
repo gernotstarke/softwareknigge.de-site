@@ -9,6 +9,8 @@ permalink: /31-bimodale-it
 summary: "Die Bankrotterklärung des bisherigen IT-Managements: Das Streben nach bimodaler IT zeigt, dass Organisationen grundsätzlich an die innovative Kraft iterativ-agiler Prozesse glauben, diese aber für ihre Kernsysteme aus organisatorischer Unfähigkeit heraus selbst nicht einführen können."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

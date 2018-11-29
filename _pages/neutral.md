@@ -6,6 +6,8 @@ permalink: /neutral
 header:
   overlay_image: /images/header/site-header.png
 
+classes: wide
+
 ---
 Hier finden Sie die neutralen Muster und Addons in der Übersicht.
 Die Nummern vor den Titeln beziehen sich auf die Kapitel der

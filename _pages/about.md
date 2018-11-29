@@ -5,6 +5,7 @@ permalink: /about/
 header:
   overlay_image: /images/header/site-header.png
 
+classes: wide
 
 gernot:
   - image_path: /images/about/gernot-portrait.jpg

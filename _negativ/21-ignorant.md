@@ -9,6 +9,8 @@ permalink: /21-ignorant
 summary: "NIH - _not invented here_ war (oder ist noch?) eine verbreitete Krankheit, und eine von mehreren Möglichkeit, Ignoranz zu zeigen."
 
 excerpt: ""
+classes: wide
+
 ---
 
 {% include you-read-an-extract.html %}

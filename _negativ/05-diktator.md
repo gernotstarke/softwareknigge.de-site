@@ -8,6 +8,8 @@ permalink: /05-diktator
 summary: "Besserwisser, Bevormunder und Begründungsverweigerer genießen unter Kopfarbeitern so ziemlich die geringstmögliche Wertschätzung und werden – mit Recht – boykottiert, ignoriert und/oder unterminiert. Falls Softwarearchitekten sich so verhalten droht Desaster."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 
@@ -39,3 +41,6 @@ Solche Diktatoren:
 ### Verwandte Muster
 
 * [_Der Entscheider_](/18-entscheider)
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

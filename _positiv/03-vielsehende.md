@@ -11,6 +11,8 @@ je nach Bedarf diese Sichten, um ein gegebenes Problem aus mehreren
 Perspektiven zu beleuchten und so zu einer tragfähigen Lösung zu kommen."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

@@ -8,6 +8,8 @@ permalink: /06-blick-in-den-rueckspiegel
 summary: "Als Autofahrer gehört Ihr Blick hauptsächlich nach vorne, in Fahrtrichtung. Trotzdem tun Sie gut daran, immer wieder auch in den Rückspiegel zu schauen. Erstens, um „rundherum“ informiert zu sein, und zweitens, um Risiken z. B. beim Überholen oder Abbiegen besser einschätzen zu können. Dieser Blick in den Rückspiegel ist für Softwarearchitekten ein essenzielles Erfolgsrezept."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

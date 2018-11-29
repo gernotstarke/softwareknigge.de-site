@@ -9,6 +9,7 @@ permalink: /02-elfenbeinturm
 summary: 'In der Abgeschiedenheit, fernab der Praxis, brütet ein verschrobenes Grüppchen Lösungsvorschläge aus, die niemand umsetzen möchte, denen es an Alltagstauglichkeit mangelt und deren (vermeintliche) _Genialität_ nur wenige zu würdigen wissen.'
 
 excerpt: ''
+classes: wide
 ---
 {% include you-read-an-extract.html %}
 
@@ -38,3 +39,6 @@ Als Kontrapunkt dazu lautet der Spruch der Praktiker _Eat your own Dogfood_: Wen
 Falls sie dabei bewusst und absichtlich handeln, weil sie beispielsweise
 die Abhängigkeit von dieser (ursprünglichen) Funktion verhindern wollen,
 geht das klar. Aber: Auf solche [Codehelden](/10-codeheld) lauert das Not-invented-here-Syndrom.
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

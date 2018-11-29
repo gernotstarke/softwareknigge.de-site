@@ -9,6 +9,8 @@ permalink: /32-flexibilisator
 summary: "Kennen Sie diesen Drang nach Verallgemeinerung, den tiefen Wunsch etwas Großes zu schaffen? Der _Flexibilisator_ findet den ultimativen Kick, wenn er über den beschränkten Spezialfall der aktuellen User-Story hinaus quasi ein zeitloses Denkmal der Flexibilität erschaffen kann."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

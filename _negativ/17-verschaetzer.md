@@ -8,6 +8,8 @@ permalink: /17-verschaetzer
 summary: "Verschätzer antworten freimütig, schnell und vermeintlich präzise auf alle Fragen nach Aufwand, Zeit, Geld oder anderen numerischen Größen. Dadurch suggerieren sie Sachkenntnis und Souveränität. Leider werden Verschätzer regelmäßig von der harten Realität eingeholt und ihre Schätzungen _ad absurdum_ geführt."
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

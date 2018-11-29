@@ -5,6 +5,8 @@ permalink: /negativ/
 header:
   overlay_image: /images/header/softwareknigge-site-header-red.png
 
+classes: wide
+
 ---
 
 Hier finden Sie die negativen Muster in der Übersicht.

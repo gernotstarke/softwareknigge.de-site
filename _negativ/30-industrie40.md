@@ -8,6 +8,8 @@ permalink: /30-industrie40
 summary: "_Remote is the new local_: Alles vernetzt – Waren, Maschinen, Fabriken, Liefe- ranten, Kunden, Menschen. Bots koordinieren _automagisch_ Entwicklung, Lieferung, Produktion, Bestellung und Abwicklung von Produkten und Dienstleistungen. Hinter dem (eher nichtssagenden Stichwort _Industrie 4.0_ verbirgt sich die nächste Evolutionsstufe unserer ohnehin schon ziemlich elektronifiziert-vernetzten Gesellschaft – die postindustrielle Revolution"
 
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

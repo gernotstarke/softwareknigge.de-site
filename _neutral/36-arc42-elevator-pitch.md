@@ -8,6 +8,8 @@ permalink: /36-arc42-elevator-pitch
 
 summary:
 excerpt: ""
+classes: wide
+
 ---
 {% include you-read-an-extract.html %}
 

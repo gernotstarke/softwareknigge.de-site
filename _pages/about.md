@@ -92,3 +92,6 @@ privat:
 {% include feature_row id="lebenslauf" type="center" %}
 
 {% include feature_row id="privat" type= "center" %}
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

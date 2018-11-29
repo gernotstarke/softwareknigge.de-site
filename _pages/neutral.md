@@ -21,3 +21,6 @@ Die Nummern vor den Titeln beziehen sich auf die Kapitel der
 {{ neutral.summary }}
 
 {% endfor %}
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

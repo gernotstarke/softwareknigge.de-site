@@ -79,3 +79,6 @@ die arc42 anbietet.
 * mehr als 120 beantwortete Fragen in den [FAQ](https://faq.arc42.org)
 * [Praktische Beispiele als eBook](http://leanpub.com/arc42byexample)
 * Die [deutsche Homepage von arc42](https://arc42.de) enthält auch Hinweise auf Trainings und Schulungen rund um arc42 und Softwarearchitektur.
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

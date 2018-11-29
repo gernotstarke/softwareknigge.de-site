@@ -18,3 +18,6 @@ classes: wide
 
 
 ### Quellen
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

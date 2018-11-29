@@ -54,3 +54,6 @@ aufwändig sein.
 ### Verwandte Muster
 
 * [Blick in den Rückspiegel](06-blick-in-den-rueckspiegel) hilft, Angemessenheit zu entscheiden.
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

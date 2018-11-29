@@ -46,4 +46,5 @@ Das er scheint uns in den meisten Fällen als zu viel Arbeit.
 * Perfektionismus führt zu Übertreibung: [Zu viel des Guten](/07-zuviel-des-guten) in Reinform.
 * Der Perfektionist kann in [Toolistan](/22-toolistan) wochenlang über noch bessere Werkzeuge diskutieren, ohne das eigentliche System zu verbessern.
 
-### Quellen
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

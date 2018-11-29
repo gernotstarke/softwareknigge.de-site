@@ -33,3 +33,6 @@ In so manchem Unternehmen fällt es leichter, unter Einhaltung des Vorgehensmod
 ### Verwandte Muster
 
 Prozessprediger verabscheuen [strukturierte Faulheit](/04-strukturierte-faulheit).
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

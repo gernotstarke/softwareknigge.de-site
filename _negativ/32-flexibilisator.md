@@ -58,3 +58,6 @@ Ultraflexibel und ultrafragil.
 ### Quellen
 
 [^lotr]: [Filmtrilogie „Der Herr der Ringe“](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe_(Filmtrilogie))
+
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

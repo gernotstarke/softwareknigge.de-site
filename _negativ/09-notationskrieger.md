@@ -35,4 +35,5 @@ eine Unterart des Notationskriegers. Diese Formular-Zombies meinen, dass man dur
 * Notationskrieger ignorieren den [Blick in den Rückspiegel](/06-blick-in-den-rueckspiegel) und boxen ihre eigenen Vorstellungen von Notationen durch. Dabei könnten sie durch Reviews und Befragung der Stakeholder in Erfahrung bringen, welche Notationen verstanden werden.
 * Sie stören die [Kommunikatorin](/20-kommunikatorin) durch ihre Sturheit und Ignoranz.
 
-### Quellen
+### Hinweis
+{% include subtle-ads/subtle-ads.html %}

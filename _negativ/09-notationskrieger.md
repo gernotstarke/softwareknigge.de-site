@@ -20,7 +20,7 @@ Eine im mittleren Management auftretende, bipedale humanoide Lebensform, die sow
 
 Die maskuline Form haben wir hier übrigens mit Absicht gewählt. Kennen Sie feminine Notationskrieger? Wir nicht! Er hält sich sklavisch an Vorschriften und weiß, auf welcher Seite im UML-Buch die erlaubten Symbole stehen. Er kämpft für die Einhaltung dieser Vorschriften und behauptet, noch nie im Leben falsch geparkt zu haben.
 
-#### Credo der Notationskrieger: Form schafft Qualität
+### Credo der Notationskrieger: Form schafft Qualität
 
 Der folgende Monolog soll Gerüchten zufolge hin und wieder in Projekten zu hören sein: „Stören Sie mich nicht mit den lästigen Fragen zum Inhalt. Bringen Sie lieber Ihre Dokumente zunächst in eine vernünftige Form, denn Sie wissen doch: Erst die Form bringt die Ordnung! Bevor ich Ihnen die Freigabe für die nächste Projektphase erteile, müssen Sie alle Diagramme im Layout, Zeichensatz und in Schriftgröße anpassen, wie es der Firmenstandard vorschreibt. Wozu haben wir denn eine Corporate Identity?“
 

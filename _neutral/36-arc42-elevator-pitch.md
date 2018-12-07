@@ -6,7 +6,7 @@ header:
 
 permalink: /36-arc42-elevator-pitch  
 
-summary:
+summary: "Falls Sie im Aufzug mit Ihrem IT-Boss über die Einführung pragmatischer Softwarearchitektur plaudern wollen – hier unser Vorschlag..."
 excerpt: ""
 classes: wide
 

@@ -23,6 +23,7 @@ Dummerweise gibt es in manchen Systemen riesige Mengen von schlechtem Code, soda
 
 ### Kategorien des Code-Grauens
 Im Wesentlichen kennen wir folgende Kategorien schlechten Quellcodes:
+
 * Code, der zur Laufzeit des Systems Schmerzen oder Probleme verursacht, beispielsweise durch schlechte Performance oder übermäßigen Ressourcenverbrauch.
 * Code, der Änderungen am System erschwert oder verhindert, beispielsweise durch zu hohe Komplexität, Unverständlichkeit oder schlechte Schnittstellen.
 * Code, der gängige Idiome, Konventionen oder Best Practices verletzt, schlechte Bezeichner verwendet oder einfach nur mies aussieht.

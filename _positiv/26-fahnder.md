@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "26 - Fahnder"
 layout: single
 header:
   overlay_image: /images/header/softwareknigge-site-header-green.png
 
-permalink: /xxx
+permalink: /26-fahnder
 summary: "Architekten als Fahnder sucht nach Softwareverbrechen, Codesünden
 oder risikoträchtigen Teilen der Software."
 
@@ -74,7 +74,7 @@ betroffenen Quellcodes oder anderer objektiver Informationsquellen.
 Fahnder korrelieren mit vielen der positiven Muster in unserem Knigge:
 
 * Sie halten die Augen in alle Richtungen offen ([Vielsehende](/13-vielsehende)),
-* Sie wägen Kosten und Risiken ab ([technische Risikomanager](/14-risikomanager)), 
+* Sie wägen Kosten und Risiken ab ([technische Risikomanager](/14-risikomanager)),
 * Sie vermeiden [Perfektion](/13-perfektionist) , aber vor allem sorgen
 sie dafür, dass Architektur, Sourcecode und auch der Entwicklungsprozess ständig einfacher, überschaubarer und daher wartbarer werden
 (Siehe [Der Vereinfachungskobold](/12-vereinfachungskobold)).

@@ -1,5 +1,5 @@
 ---
-title: Positive
+title: Positive Verhaltensmuster
 layout: single
 permalink: /positiv
 header:

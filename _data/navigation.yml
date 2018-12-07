@@ -1,14 +1,16 @@
 
 main:
-  - title: "Positive"
+  - title: "Positives..."
     url: /positiv
-  - title: "Negative"
+    description: "Positive Verhaltensmuster"
+  - title: "Negatives..."
     url: /negativ
-  - title: "Neutrale"
+    description: "Negative Verhaltensmuster"
+  - title: "Neutrales..."
     url: /neutral
   - title: "Bücher"
     url: /book
   - title: "About"
     url: /about
   - title: "Kontakt"
-    url: /contact  
+    url: /contact

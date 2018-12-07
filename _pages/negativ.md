@@ -1,5 +1,5 @@
 ---
-title: Negative
+title: Negative Verhaltensmuster
 layout: single
 permalink: /negativ/
 header:

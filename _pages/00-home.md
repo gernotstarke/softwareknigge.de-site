@@ -29,8 +29,8 @@ feature_row:
 
 ---
 
-
 ![](/images/pattern-language/Knigge-Pattern-Language-4-Site.png)
+
 
 Der "Knigge für Softwarearchitekten" ist ein [Buch von Peter Hruschka und Gernot Starke](https://www.amazon.de/Knigge-für-Softwarearchitekten-Peter-Hruschka/dp/3868028064), das 38 _Muster_ für gutes und schlechtes Verhalten identifiziert, und
 Teams und Personen in der Softwareentwickung damit einen Spiegel vorhält.

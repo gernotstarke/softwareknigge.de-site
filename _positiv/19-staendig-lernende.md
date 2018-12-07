@@ -81,7 +81,7 @@ Eine Grundvoraussetzung für das ständige Lernen heißt Neugierde. Das bedeut
 
 
 ### Verwandte Muster
-
+Der Trend zum Zweitbuch hat die Informatik erreicht: [Schmökern](/24-schmoekern) hilft beim Lernen.
 
 ### Hinweis
 {% include subtle-ads/subtle-ads.html %}

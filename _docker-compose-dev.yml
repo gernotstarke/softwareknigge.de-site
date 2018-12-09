@@ -3,7 +3,7 @@
 version: '2'
 
 services:
-  gernotstarke-jekyll:
+  softwareknigge-site-jekyll:
     build: .
     image: softwareknigge-site
     command: jekyll serve --trace --host 0.0.0.0 --watch --config _config.yml,_config-dev.yml

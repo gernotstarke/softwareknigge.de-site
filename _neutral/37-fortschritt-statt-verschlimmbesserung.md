@@ -100,10 +100,11 @@ klassischen Aus- und Weiterbildung für Softwarearchitekten; IMPROVE bietet ein
 
 ### Verwandte Muster
 
-* Qualitätsverbesserer(/33-qualitaetsverbesserer) möchten unbedingt verbessern 
-* Ändern ist der Normalfall(/25-aendern-ist-normalfall)
+* [Qualitätsverbesserer](/33-qualitaetsverbesserer) möchten unbedingt verbessern
+* [Ändern ist der Normalfall](/25-aendern-ist-normalfall)
 
-### Quellen
+
 [^wikipedia]:  [Wiktionary zu Verschlimmbesserung](https://de.wiktionary.org/wiki/Verschlimmbesserung)
 
+### Hinweis
 {% include subtle-ads/subtle-ads.html %}

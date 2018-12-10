@@ -25,8 +25,10 @@ Schauen wir auf den einfachsten Fall: Ein Consumer muss die Anfrage irgendwie an
 ### Wer entscheidet über Schnittstellen
 Überlegen wir, welche der Typen von Personen (Stakeholder) eigentlich an solchen Entscheidungen beteiligt sind?
 
-Die folgende Abbildung  zeigt diese Situation – völlig verallgemeinert –
+Die folgende Abbildung zeigt diese Situation – völlig verallgemeinert –
 mit möglichen Beteiligten: das Consumerteam **C**, Providerteam **P**, eine API-tektin **A**, Management **M** sowie sonstige Stakeholder **S**.
+
+![Stakeholder bei Schnittstellen-Entscheidungen](/images/35-schnittstellen-stakeholder.png)
 
 Zu jeder Schnittstelle gehören jede Menge Detailentscheidungen (u.a. Namensgebung, Parameter, Syntax, Semantik, sync/async, Interaktionsmuster, Vermittlung zwischen Consumer/Provider, Versionierung...). Nun könnten sich die Stakeholder A, C, P sowie M und S wie folgt einbringen:
 

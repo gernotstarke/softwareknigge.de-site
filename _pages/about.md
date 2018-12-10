@@ -8,7 +8,7 @@ header:
 classes: wide
 
 gernot:
-  - image_path: /images/about/gernot-portrait.jpg
+  - image_path: /images/about/peter-gernot.jpg
     alt: Peter und Gernot
     title: Software-Engineering aus Passion.
     excerpt: 'Peter ist Mitglieder der [Atlantic Systems Guild](https://systemsguild.com).<br><br>
@@ -31,8 +31,7 @@ arc42:
     - image_path: /images/about/arc42-logo.jpg
       alt: arc42
       title: Gründer und Maintainer von arc42.
-      excerpt: '**[arc42](https://arc42.org), das** Template zur Kommunikation und Dokumentation von Softwarearchitekturen.
-
+      excerpt: 'Beide sind Gründer und Maintainer von **[arc42](https://arc42.org)**, dem pragmatischen Template zur Kommunikation, Dokumentation und Entwicklung von Softwarearchitekturen.
 
       arc42 verbessert Überblick und Verständnis von IT-Systemen.
       Praxisnah, pragmatisch, vielfach bewährt, seit 2005 im Einsatz.'
@@ -68,11 +67,6 @@ training:
     Weiterbildung von IT-Personal sowie IT-Themen für Management. '
 
 
-privat:
-  - image_path: /images/about/ochsenkopf-grat.jpg
-    alt: outdoor
-    excerpt: 'Am Computer ist gut. Draussen auch.'
-
 ---
 
 {% include feature_row id="gernot" type="left" %}
@@ -91,7 +85,6 @@ privat:
 
 {% include feature_row id="lebenslauf" type="center" %}
 
-{% include feature_row id="privat" type= "center" %}
 
 ### Hinweis
 {% include subtle-ads/subtle-ads.html %}

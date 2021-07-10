@@ -5,7 +5,7 @@ header:
   overlay_image: /images/header/softwareknigge-site-header-green.png
 
 permalink: /04-strukturierte-faulheit
-summary: "Viele Menschen für wiederkehrende Situationen des täglichen Lebens Merkzettel (z.B. den Einkaufszettel)? Aber warum verlassen sich diese Menschen, wenn es um die Erledigung kritischer Aufgaben in der Konstruktion und Implementierung von IT-Systemen geht, völlig auf ihr (oftmals durch parallele Aufgaben überlastetes) Hirn? "
+summary: "Viele Menschen nutzen für wiederkehrende Situationen des täglichen Lebens Merkzettel (z.B. den Einkaufszettel)? Aber warum verlassen sich diese Menschen, wenn es um die Erledigung kritischer Aufgaben in der Konstruktion und Implementierung von IT-Systemen geht, völlig auf ihr (oftmals durch parallele Aufgaben überlastetes) Hirn? "
 
 excerpt: ""
 classes: wide

@@ -1,5 +1,5 @@
 <div class="page__footer-follow">
-
+<ul class="social-icons">
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
@@ -8,13 +8,16 @@
       <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
 
+    <li><a href="https://www.youtube.com/arc42-video/"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> YouTube</a></li>
+
     <li><a href="https://arc42.de"><i class="far fa-grin" aria-hidden="true"></i> arc42</a></li>
 
     <li><a href="{{ '/imprint' | absolute_url }}"><i class="fas fa-fw fa-gavel" style="color:Tomato" aria-hidden="true"></i> Impressum & Datenschutz</a></li>
 
+</ul>
 </div>
 
-<div class="page__footer-copyright">&copy; Dr. Gernot Starke (mit Peter Hruschka). Powered by
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} Dr. Gernot Starke (mit Peter Hruschka). Powered by
   <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br/>
   Supported by <a href="https://INNOQ.com"><b>INNOQ</b></a> and <a href="https://arc42.de">arc42</a>.
 

@@ -46,7 +46,7 @@ Alle Varianten haben ihre Fürsprecher, aber Sie selbst müssen für jede Ent
 
 ### Verwandte Muster
 Vermeiden Sie Alleingänge und konsultieren stattdessen maßgebliche Stakeholder,
-um sich nicht als [Diktator](/5-diktator) unbeliebt zu machen.
+um sich nicht als [Diktator](/05-diktator) unbeliebt zu machen.
 
 ### Hinweis
 {% include subtle-ads/subtle-ads.html %}
